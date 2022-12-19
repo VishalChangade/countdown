@@ -7,7 +7,7 @@
 body{
     margin: 0;
     font-family: 'Teko', sans-serif;
-    background: url(../images/lh.jpg);
+    background: url(images/lh.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
